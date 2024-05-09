@@ -116,7 +116,7 @@ li {
 .container3{
     position: absolute;
     width: 750px;
-    height: 700px;
+    min-height: 700px;
     background: rgb(30, 30, 30);
     padding: 0 30px;
     border-radius: 25px;
